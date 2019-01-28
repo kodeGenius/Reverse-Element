@@ -1,0 +1,2 @@
+const reverseArray =(num) =>{
+	
