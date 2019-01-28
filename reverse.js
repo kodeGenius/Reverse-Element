@@ -6,3 +6,4 @@ const reverseArray =(num) =>{
 	return result;
 }
 
+console.log(reverseArray(['a','b','c','d']))
