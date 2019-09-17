@@ -5,6 +5,5 @@ const reverseArray =(num) =>{
 	}
 	return result;
 }
-console.log
 
 console.log(reverseArray(['a','b','c','d']))
